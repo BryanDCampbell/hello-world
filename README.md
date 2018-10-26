@@ -1,3 +1,5 @@
 # hello-world
-First ever repository on GitHub
-Hello all, my name is Bryan. I'm a soon to be 31 year old nurse who's looking to change careers. To do so, I'm learning to code in order to one day (hopefully) secure a job as a developer. I'll be putting my all into this effort, and can't wait to join the rest of you as a contributing member of the community.
+First ever repository on GitHub!
+Hello all, my name is Bryan Campbell. I'm a soon-to-be 31 year old nurse who's looking to change careers. To do so, I'm learning to code in order to one day secure a job as a developer. I'll be putting my all into this effort, and can't wait to join the rest of you as a contributing member of the community.
+Pursuing a career in nursing was driven by my desire to give back to my community. It is incredibly rewarding work. However, it can also place an incredible strain on your emotions and physical health. I feel that my work has made a positive difference in the lives of others, and I am grateful for having that impact. However, for my own health, I'm looking to pursue other interests at this point in my life. 
+Becoming a developer is a creative way for me to follow through with my desire to give back to the community. Completing projects will help connect people and bridge differences. My work would simply reallocate the drive to give back to the community from making an impact on a personal level to a social level. 
